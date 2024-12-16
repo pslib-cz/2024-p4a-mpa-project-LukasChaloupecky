@@ -20,3 +20,7 @@ The user can set multiple things, like:
 - Reading luminescense, watching moves luminescnee etc.
 
 - Statsistics
+
+
+
+### APP will use  gyroscope and light sensro, also it will huse Foreground service class for running the app in the bacgkround
